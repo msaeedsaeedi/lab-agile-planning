@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Propose a new feature for the fullstack application
-title: FEATURE
+title: feat: (Subject)
 labels: enhancement
 assignees: ''
 
